@@ -1,0 +1,30 @@
+{
+  "name": "demo_ethereum_counter_contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serge-nikitin/demo_ethereum_counter_contract.git"
+  },
+  "keywords": [],
+  "author": "Serge Nikitin <mail@sergenikitin.com> (https://github.com/serge-nikitin)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serge-nikitin/demo_ethereum_counter_contract/issues"
+  },
+  "homepage": "https://github.com/serge-nikitin/demo_ethereum_counter_contract#readme",
+  "dependencies": {
+    "dotenv-safe": "^4.0.4",
+    "web3": "^1.0.0-beta.22"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.2",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-config-prettier": "^2.6.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}

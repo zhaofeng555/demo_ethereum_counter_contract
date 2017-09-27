@@ -1,0 +1,4 @@
+/node_modules
+/chaindata
+/.env
+/work.txt
